@@ -2,7 +2,7 @@
 Учебные проекты, выполненные на курсе DA Яндекс-практикума  
 
 | [Анализ рынка недвижимости Санкт-Петербурга]
-<https://github.com/irinas0/practicum_projects/tree/main/SPb_real_estate>
+<https://github.com/irinas0/practicum_projects/tree/main/SPb_real_estate>/"Анализ рынка недвижимости Санкт-Петербурга"
 |Интернет-сервисы    |Data Analyst
 |:-----------------------------------------:|Площадки объявлений |Fraud-аналитик
 |                                           |                    |Маркетинг-аналитик
