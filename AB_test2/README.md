@@ -3,7 +3,6 @@
 **Навыки и инструменты**
 - Python
 - Pandas
-- Plotly
 - Seaborn
 - Matplotlib
 - A/B-тестирование 
